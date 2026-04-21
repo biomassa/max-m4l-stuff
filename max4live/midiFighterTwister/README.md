@@ -11,7 +11,7 @@ for DJTechTools Midi Fighter Twister and max4live
 
 # how to use
 
-- twist knobs
+- twist knobs, map parameters
 - recording mode: press and hold any knob and twist
 - upon release, playback begins immediately. time your loops well!
 - short click on the knob clears buffer
