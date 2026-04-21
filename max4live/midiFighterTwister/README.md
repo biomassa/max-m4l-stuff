@@ -15,6 +15,7 @@ for DJTechTools Midi Fighter Twister and max4live
 - twist knobs, map parameters
 - recording mode: press and hold any knob and twist
 - upon release, playback begins immediately. time your loops well!
+- visual feedback is provided both in ableton and the hardware itself
 - short click on the knob clears buffer
 - buffer lentgh: 20 seconds
 
