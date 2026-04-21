@@ -9,7 +9,7 @@ for DJTechTools Midi Fighter Twister and max4live
 - fighterTwisterM4L.mfs - mapping to be sent to Midi Fighter Twister via Midi Fighter Utility
 
 
-# how to use (stub, todo!)
+# how to use
 
 - twist knobs
 - recording mode: press and hold any knob and twist
