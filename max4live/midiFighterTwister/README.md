@@ -23,4 +23,8 @@ for DJTechTools Midi Fighter Twister and max4live
 - short click on the knob clears buffer
 - buffer lentgh: 20 seconds
 
+# known issues
+
+- in the bank 4, two knobs are non-recordable (they are not illumnated) due to ableton's restrictions
+
 made by humans (no llms)
