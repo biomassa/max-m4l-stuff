@@ -25,6 +25,6 @@ for DJTechTools Midi Fighter Twister and max4live
 
 # known issues
 
-- in the bank 4, two knobs are non-recordable (they are not illumnated) due to ableton's restrictions
+- in the bank 4, two knobs are usable but non-recordable (they are not illumnated)
 
 made by humans (no llms)
