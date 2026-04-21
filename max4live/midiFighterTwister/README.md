@@ -1,4 +1,5 @@
-# controller / gesture looper for DJTechTools Midi Fighter Twister and max4live
+# controller / gesture looper
+### for DJTechTools Midi Fighter Twister and max4live
 
 ## fighterTwisterM4L_1-64.amxd
 max4live device for the first two banks of knobs on the Twister
