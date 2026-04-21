@@ -2,7 +2,7 @@
 # controller / gesture looper
 for DJTechTools Midi Fighter Twister and max4live
 
-[image](./gestures.png)
+![image](./gestures.png)
 
 - fighterTwisterM4L_1-64.amxd - max4live device for the first two banks of knobs on the Twister
 - fighterTwisterM4L_65-127.amxd - max4live device for banks 3 and 4
