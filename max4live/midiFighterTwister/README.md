@@ -17,3 +17,5 @@ for DJTechTools Midi Fighter Twister and max4live
 - upon release, playback begins immediately. time your loops well!
 - short click on the knob clears buffer
 - buffer lentgh: 20 seconds
+
+made by humans (no llms)
