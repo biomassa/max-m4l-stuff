@@ -16,7 +16,7 @@ for DJTechTools Midi Fighter Twister and max4live
 
 # how to use
 
-- add this device to an empty midi track
+- add one of the devices to an empty midi track
 - set track input and output to midi fighter twister, set midi channel to 1
 - twist knobs, map parameters
 - recording mode: press and hold any knob and twist
