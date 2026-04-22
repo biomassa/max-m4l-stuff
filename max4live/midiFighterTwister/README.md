@@ -30,6 +30,6 @@ for DJTechTools Midi Fighter Twister and max4live
 # known issues
 
 - in the bank 4, two knobs are usable but non-recordable (they are not illuminated)
-- according to internet, when loading the device for the first time, you might need to delete and reinsert it. you will see this as green scopes not moving as you twist the knobs. this is due to the way the max abstractions are treated in max4live. personally, i have not experienced that, but YMMV
+- according to internet, when loading the device for the first time, you might need to delete it from ableton session and reinsert it. you will see this as green scopes not moving as you twist the knobs. this is due to the way the max abstractions are treated in max4live. personally, i have not experienced that, but YMMV
 
 made by humans (no llms)
