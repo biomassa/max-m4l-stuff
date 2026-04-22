@@ -8,7 +8,11 @@ for DJTechTools Midi Fighter Twister and max4live
 - fighterTwisterM4L_65-127.amxd - max4live device for banks 3 and 4
 - fighterTwisterM4L-all.amxd - max4live device for all the banks of knobs at once
 - fighterTwisterM4L.mfs - mapping to be sent to Midi Fighter Twister via Midi Fighter Utility (save your config!)
+- twisterAbstractions - patchers required for the device to function
 
+# installation
+
+- put the twisterAbstractions folder or its contents somewhere in your Max path
 
 # how to use
 
