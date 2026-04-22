@@ -24,7 +24,7 @@ for DJTechTools Midi Fighter Twister and max4live
 - visual feedback is provided both in ableton and on the hardware itself
 - any side button on the right side: next bank
 - any side button on the left side: previous bank
-- short click on the knob clears buffer
+- short click on any green (playing) knob clears buffer
 - buffer lentgh: 20 seconds
 
 # known issues
