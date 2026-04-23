@@ -17,7 +17,7 @@ for DJTechTools Midi Fighter Twister and max4live
 # how to use
 
 - add one of the devices (.amxd files) to an empty midi track
-- set track input and output to midi fighter twister, set midi channel to 1
+- set track input and output to midi fighter twister
 - twist knobs, map parameters
 - recording mode: press and hold any knob and twist
 - upon release, playback begins immediately. time your loops well!
